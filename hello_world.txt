@@ -1,1 +1,2 @@
 Here are some changes to hello_world.txt
+This is another edit to test the note functionality.
